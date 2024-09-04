@@ -1,16 +1,11 @@
-## Hi there 👋
+## IA PhD Student
 
-<!--
-**eugeborzone/eugeborzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A dedicated industrial engineer currently pursuing a Ph.D. in
+Engineering with a focus on Computational Intelligence, Signals, and
+Systems. I bring a creative mindset, a positive attitude, and strong
+leadership skills to the table. My commitment to excellence, coupled
+with a knack for automation, has not only driven academic success
+but has also proven instrumental in enhancing operational
+efficiency. Ready to contribute innovative solutions and leadership
+to advance projects in the intersection of industrial engineering and
+computational intelligence.
